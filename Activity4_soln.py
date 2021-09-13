@@ -22,5 +22,14 @@ solution2 = "My first name is {0} my last name is {1} my favorite meal is {2} an
 '''
 
 #Concatenation: 
+'''
 solution3 = "My first name is " + firstName + " my last name is " + lastName + " my favorite meal is " + " Mangu " + "my favorite color is " + " Orange."
 print(solution3)
+'''
+
+
+#Hybrid Model: Argument by Name and Position: 
+age = 27
+numOfCryptosOwned = 15
+solution4 = "I am {0} years old, and I am {e}, and I own like {1} cryptocurrencies".format(age, numOfCryptosOwned, e="Latino")
+print(solution4)
