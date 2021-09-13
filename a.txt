@@ -1,0 +1,8 @@
+Git and Github
+
+Git -> Local Repo -> Hosted on YOUR machine
+Github -> Remote Repo -> Host on the CLOUD -> Hosted on SOMEONE ELSE's machine. 
+
+*This basically is the "save" button in your code*
+
+
